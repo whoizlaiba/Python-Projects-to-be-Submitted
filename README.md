@@ -22,6 +22,7 @@ https://colab.research.google.com/drive/1BkHzsPngpQ3bIcFpbl-z7hPe-pShUQfS?usp=sh
 
 
 #  Password Generator Python Project
+https://colab.research.google.com/drive/1y5vnytRkwfJ3d9p74PgET7KZzECizAeH?usp=sharing
 
 
 # Create a Python Streamlit BMI Calculator Web App in Just 6 Minutes
