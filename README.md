@@ -3,7 +3,7 @@
 
 
 # Mad-libs-Python-Project
-[Open Link to See the Mad-libs-project code](https://colab.research.google.com/drive/1HBqzvfJQ_WfFdHZXaZXDIJyjxNE0H631?usp=sharing)
+https://colab.research.google.com/drive/1HBqzvfJQ_WfFdHZXaZXDIJyjxNE0H631?usp=sharing
 
 
 # Guess the Number Game Python Project (computer)
