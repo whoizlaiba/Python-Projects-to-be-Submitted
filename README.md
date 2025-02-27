@@ -1,8 +1,7 @@
-# Python Projects
+# Compulsory Project to be Submitted by the Students
 
 
-## Mad-libs-Python-Project
-https://colab.research.google.com/drive/1HBqzvfJQ_WfFdHZXaZXDIJyjxNE0H631?usp=sharing
+(Project 1: Mad libs Python Project)[https://colab.research.google.com/drive/1HBqzvfJQ_WfFdHZXaZXDIJyjxNE0H631?usp=sharing]
 
 
 ## Guess the Number Game Python Project (computer)
