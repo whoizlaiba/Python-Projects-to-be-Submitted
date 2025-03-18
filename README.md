@@ -6,7 +6,7 @@
 
 [Project 2: Guess the Number Game Python Project (computer)](https://colab.research.google.com/drive/1BkHzsPngpQ3bIcFpbl-z7hPe-pShUQfS?usp=sharing)
 
-[Project 3: Guess the Number Game Python Project (user)]()
+[Project 3: Guess the Number Game Python Project (user)](https://colab.research.google.com/drive/1cqSMtNH12j5Os3pYCQzIY4zlO4StZW1b?usp=sharing)
 
 [Project 4: Rock, paper, scissors Python Project](https://colab.research.google.com/drive/19lZU__SJW0jHpPJPLYxbRpQ5YiR_Vz14?usp=sharing)
 
